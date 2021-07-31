@@ -17,7 +17,7 @@ My first attempt came out a bit too big after I peeled and kinda squeegeed it to
 
 Even if you just want to leave the cutouts as open space, this way it's more flexible.  You can attach them, or you can also delete them if you don't want the cut out.
 
-You can also add in a different pattern and cut out something different.  I was going to do lala, but I changed my mind.  All the stuff I craft is usually lala based, but on second though, it doesn't make sense on my surface duo.  I left it in on the SVG as an example of some possibilities.  If you do the cutout, it might be better to make the positive cutout a smidgen smaller to they don't overlap.
+You can also add in a different pattern and cut out something different.  I was going to do lala, but I changed my mind.  All the stuff I craft is usually lala based, but on second thought, it doesn't make sense on my surface duo.  I left it in on the SVG as an example of some possibilities.  If you do the cutout, it might be better to make the positive cutout a smidgen smaller to they don't overlap.
 
 So that's a TODO: Shrink the positive inlays.
 
